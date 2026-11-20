@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "lg tv",
+      "price": 50000
+    },
+    {
+      "id": 2,
+      "name": "samsung mobile",
+      "price": 100000
+    } ,
+    {
+      "id": 3,
+      "name": "ipad",
+      "price": 30000
+    } ,
+    {
+      "id": 4,
+      "name": "playstation 5 ",
+      "price": 49999
+    } 
+  ]
+}
